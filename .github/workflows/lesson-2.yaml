@@ -38,3 +38,4 @@ jobs:
           coverage run -m --source=./hangry_api pytest
           coverage report
         working-directory: backend
+        
